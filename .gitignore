@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Data and model artifacts
+data/datasets/
+*.zip
+*.pth
+*.pt
+*.pkl
+models/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/settings.json
